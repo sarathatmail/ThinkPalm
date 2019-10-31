@@ -10,7 +10,7 @@
   <h2>Choose sports person:</h2>
   <form method="get">
     <input type="checkbox" name="author" value="Valentino Rossi">Rossi
-    <input type="checkbox" name="author" value="Sachin Tendulkar">Sachin
+    <input type="checkbox" name="author" value="Sachin Tendulkar">Dhoni
     <input type="checkbox" name="author" value="Leonel Messi">Messi
     <input type="checkbox" name="author" value="Rafael Nadal">Nadal
     <input type="submit" value="Query">
