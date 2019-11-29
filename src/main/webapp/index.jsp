@@ -29,7 +29,7 @@
 				<div class="col-md-6">
 					<ul class="list-group">
 					  <a class="list-group-item"><input style="cursor: pointer;" type="checkbox" name="author" value="Valentino Rossi"> Rossi</a>
-					  <a class="list-group-item"><input style="cursor: pointer;" type="checkbox" name="author" value="Sachin Tendulkar"> Sachin</a>
+					  <a class="list-group-item"><input style="cursor: pointer;" type="checkbox" name="author" value="YuvRaj"> Sachin</a>
 					  <a class="list-group-item"><input style="cursor: pointer;" type="checkbox" name="author" value="Leonel Messi"> Shahul</a>
 					  <a class="list-group-item"><input style="cursor: pointer;" type="checkbox" name="author" value="Rafael Nadal"> Rafael</a>
 					</ul>
